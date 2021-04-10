@@ -1,0 +1,5 @@
+page{
+  background-image: url("https://matery.oss-cn-hangzhou.aliyuncs.com/pic/banner/wbb.jpg");
+  background-size: 100%, 100%;
+  background-repeat: no-repeat;
+}

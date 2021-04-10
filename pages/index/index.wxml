@@ -1,0 +1,9 @@
+<view style="margin-top:250px;">
+<view style="text-align:center;">
+<p style="font-size:18px;">智能家居控制系统</p>
+  <view style="margin-top:30px;">  <p>设备状态：{{device_status}}</p> </view>
+  <view style="margin-top:30px;">
+  <view style="margin-top:30px;"> <button bindtap="openclick" >打开</button></view>
+</view>
+</view>
+</view>
